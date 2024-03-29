@@ -4,4 +4,4 @@ A modified residual network (ResNet) architecture on the CIFAR-10 image classifi
 
 # References
 
-- [Python-cifar](https://github.com/kuangliu/pytorch-cifar/blob/master/models/resnet.py)
+- [Python-cifar model](https://github.com/kuangliu/pytorch-cifar/blob/master/models/resnet.py), [main](https://github.com/kuangliu/pytorch-cifar/blob/master/main.py)
