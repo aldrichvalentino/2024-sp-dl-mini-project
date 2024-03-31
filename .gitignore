@@ -137,4 +137,4 @@ ui-tests/.yarn/*
 ui-tests/.pnp.*
 
 # out files
-.out
+*.out
